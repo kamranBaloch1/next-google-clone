@@ -1,6 +1,10 @@
 # Google Clone
 
+
+
 This is a **Google Clone** built using Next.js. It mimics the core functionality of Google Search, using the **Google Custom Search API** to fetch search results.
+
+## Developed By Kamran Baloch
 
 ## Features
 
@@ -26,9 +30,9 @@ This is a **Google Clone** built using Next.js. It mimics the core functionality
 
 To get started, clone this repository and install the dependencies:
 
+
 ```bash
-git clone https://github.com/your-username/google-clone.git
+git clone git@github.com:kamranBaloch1/next-google-clone.git
 cd google-clone
 npm install
 
-- **Developed By Kamran Baloch**
